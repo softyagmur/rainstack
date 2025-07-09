@@ -1,0 +1,20 @@
+{
+  "name": "rainstack",
+  "version": "0.0.1-beta.1",
+  "description": "New module coming soon!",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "bun src",
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "files": [
+    "dist/",
+    "src/",
+    "README.md"
+  ],
+  "keywords": [],
+  "author": "softyagmur",
+  "license": "MIT"
+}
