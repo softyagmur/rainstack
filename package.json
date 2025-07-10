@@ -1,11 +1,12 @@
 {
+  "type": "module",
   "name": "rainstack",
-  "version": "1.0.1-beta.1",
+  "version": "2.0.0-beta.1",
   "description": "New module coming soon!",
   "main": "dist/app.js",
   "types": "dist/app.d.ts",
   "scripts": {
-    "test": "bun test/index.ts",
+    "test": "node test/index.ts",
     "build": "tsc",
     "prepublishOnly": "npm run build"
   },
@@ -17,9 +18,11 @@
   "author": "softyagmur",
   "license": "MIT",
   "dependencies": {
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.16.2"
   },
   "devDependencies": {
-    "@types/node": "^24.0.12"
+    "@types/node": "^24.0.12",
+    "tsx": "^4.20.3"
   }
 }

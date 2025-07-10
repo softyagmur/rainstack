@@ -1,6 +1,6 @@
-import { readFileSync, existsSync } from "fs";
-import { logError } from "../../helpers/logger";
+import { existsSync, readFileSync } from "fs";
 import { join } from "path";
+import { logError } from "../../helpers/logger";
 
 type Lang = "en" | "tr";
 
