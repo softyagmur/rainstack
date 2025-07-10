@@ -1,6 +1,6 @@
 {
   "name": "rainstack",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.1-beta.1",
   "description": "New module coming soon!",
   "main": "dist/app.js",
   "types": "dist/app.d.ts",
