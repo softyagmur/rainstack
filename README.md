@@ -12,11 +12,11 @@
 # 🌍 Welcome to the English Guide!
 **✨ Version 2.0.0-beta.1**
 ```bash
-npm install rainstack
+npm install rainstack@dev
 
 or
 
-pnpm install rainstack
+pnpm install rainstack@dev
 ```
 
 # ⏰ Long-term Plans
