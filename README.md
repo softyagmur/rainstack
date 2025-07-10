@@ -2,15 +2,15 @@
 
 # Join our [discord](https://discord.gg/Hp84ss9yRp)!
 
-# What's new in v1.0.2-beta?
+# What's new in v2.0.0-beta?
 
-- Language system, set, get, getAll, has, delete, deleteAll, push, unpush systems added.
+- MongoDB system.
 
 # Document
 [Turkish document](https://github.com/softyagmur/rainstack/blob/main/documents/tr.md)
 
 # 🌍 Welcome to the English Guide!
-**✨ Version 1.0.2-beta.1**
+**✨ Version 2.0.0-beta.1**
 ```bash
 npm install rainstack
 
@@ -21,7 +21,7 @@ pnpm install rainstack
 
 # ⏰ Long-term Plans
 - Special protected databases.
-- Link database, mongodb, yml databases will be added.
+- Link database, yml databases will be added.
 
 # 🏅 Example Usage
 **CommonJS:**
