@@ -1,0 +1,11 @@
+{
+  "logger": {
+    "info": {
+      "success_lang": "Language system successfully activated!",
+      "success_database": "Database successfully activated!"
+    },
+    "warn": {
+      "entered": "Please enter the approval message."
+    }
+  }
+}

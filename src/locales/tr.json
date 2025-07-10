@@ -1,0 +1,9 @@
+{
+  "logger": {
+    "info": {
+      "success_lang": "Dil sistemi başarıyla etkinleştirildi!",
+      "success_database": "Veritabanı başarıyla etkinleştirildi!"
+    },
+    "warn": { "entered": "Lütfen onay mesajını girin." }
+  }
+}

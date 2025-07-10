@@ -1,0 +1,8 @@
+.vscode
+src
+test
+node_modules
+package-lock.json
+document
+rainstack
+todo.txt
